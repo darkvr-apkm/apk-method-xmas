@@ -55,8 +55,8 @@ def main():
                 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
             </head>
             <body style="font-family: 'Inter', sans-serif;">
-                <h1 style="color: red; font-size: 30px;">
-                    boi ts is so tuff!
+                <h1 style="color: yellow; font-size: 30px;">
+                    aff taggerss backendd workking smoothlly!
                 </h1>
             </body>
         </html>
